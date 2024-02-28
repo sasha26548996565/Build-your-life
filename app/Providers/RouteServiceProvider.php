@@ -38,7 +38,7 @@ class RouteServiceProvider extends ServiceProvider
             return Limit::perMinute(60)
                 ->by($request->user()?->id ?: $request->ip())
                 ->response(function (Request $request, array $headers) {
-                    return response('Take it easy', Response::HTTP_TOO_MANY_REQUESTS, $headers);
+                    return response('Слишком много запросов', Response::HTTP_TOO_MANY_REQUESTS, $headers);
                 });
         });
     }
