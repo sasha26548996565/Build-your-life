@@ -19,7 +19,7 @@
                                             E
                                         </div>
                                         <div class="relative ml-3 text-sm text-gray bg-white py-2 px-4 shadow rounded-xl">
-                                            <div>Lorem ipsum</div>
+                                            <div>Я чувствую себя очень подавленным последнее время.</div>
                                         </div>
                                     </div>
                                 </div>
@@ -31,9 +31,7 @@
                                         </div>
                                         <div class="relative ml-3 text-gray  text-sm bg-white py-2 px-4 shadow rounded-xl">
                                             <div>
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing
-                                                elit. Vel ipsa commodi illum saepe numquam maxime
-                                                asperiores voluptate sit, minima perspiciatis.
+                                                Мне кажется, что я ничего не достиг в жизни.
                                             </div>
                                         </div>
                                     </div>
@@ -46,7 +44,7 @@
                                         </div>
                                         <div
                                             class="relative mr-3 text-gray  text-sm bg-indigo-100 py-2 px-4 shadow rounded-xl">
-                                            <div>Im ok what about you?</div>
+                                            <div>Понимаю ваше состояние. Важно найти поддержку и способы справиться с этим</div>
                                         </div>
                                     </div>
                                 </div>
@@ -59,7 +57,7 @@
                                         <div
                                             class="relative mr-3 text-gray text-sm bg-indigo-100 py-2 px-4 shadow rounded-xl">
                                             <div>
-                                                Lorem ipsum dolor sit, amet consectetur adipisicing. ?
+                                                Лично мне помог этот проект!
                                             </div>
                                         </div>
                                     </div>
@@ -71,7 +69,7 @@
                                             Б
                                         </div>
                                         <div class="relative ml-3 text-gray text-sm bg-white py-2 px-4 shadow rounded-xl">
-                                            <div>Lorem ipsum dolor sit amet !</div>
+                                            <div>Мне тоже!</div>
                                         </div>
                                     </div>
                                 </div>
@@ -84,7 +82,7 @@
                                         <div
                                             class="relative mr-3 text-gray text-sm bg-indigo-100 py-2 px-4 shadow rounded-xl">
                                             <div>
-                                                Lorem ipsum dolor sit, amet consectetur adipisicing. ?
+                                                Полагаю, ИИ это все таки хорошая вещь в психологии
                                             </div>
                                             <div class="absolute text-xs bottom-0 right-0 -mb-5 mr-2 text-gray-500">
                                                 Seen
@@ -100,8 +98,7 @@
                                         </div>
                                         <div class="relative ml-3 text-gray text-sm bg-white py-2 px-4 shadow rounded-xl">
                                             <div>
-                                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                                                Perspiciatis, in.
+                                                Абсолютно согласен
                                             </div>
                                         </div>
                                     </div>
@@ -109,7 +106,7 @@
                             </div>
                             <div class="flex-grow ml-4">
                                 <div class="relative w-full">
-                                    <input type="text" placholded="Напишите сообщение"
+                                    <input type="text" placeholder="Напишите сообщение"
                                         class="flex w-full text-gray border rounded-xl focus:outline-none focus:border-indigo-300 pl-4 h-10" />
                                     <button
                                         class="absolute flex items-center justify-center h-full w-12 right-0 top-0 text-gray-400 hover:text-gray-600">
